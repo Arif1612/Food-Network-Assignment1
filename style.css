@@ -51,4 +51,24 @@ font-weight: 900;
     display: flex;
     
 }
+.top-recipies{
+    text-align: center;
+    
+}
+.thirty-three{
+    width: 33%;
+    margin: 20px;
+    box-shadow: 10px 10px 30px gray;
+    padding: 15px;
+    border-radius: 20px;
+
+
+}
+.thirty-three img{
+    width: 95%;
+    
+}
+.recipies{
+    display: flex;
+}
 
