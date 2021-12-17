@@ -71,4 +71,20 @@ font-weight: 900;
 .recipies{
     display: flex;
 }
+.followers{
+    display: flex;
+    text-align: center;
+    
+}
+h2{
+    font-size: 48px;
+}
+footer{
+    text-align: center;
+   background-color: rgb(1, 1, 29);
+   color: white;
+   padding-top: 10px;
+   padding-bottom: 50PX;
+   width: 900;
+}
 
