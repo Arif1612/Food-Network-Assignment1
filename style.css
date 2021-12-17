@@ -32,5 +32,23 @@ font-weight: 900;
 }
 .half-width img{
     width: 95%;
+    border-radius: 5%;
+}
+#left-background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#right-background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.middle-part{
+    margin-top: 100px;
+    display: flex;
+    
 }
 
