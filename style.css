@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+   
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    color: #575757;
+}
+h3{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.order-button{
+text-decoration: none;
+color: white;
+background-image: linear-gradient(orange,red);
+padding: 10px 20px;
+border-radius: 40px;
+font-weight: 900;
+}
+
+.top-part{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 95%;
+}
+
